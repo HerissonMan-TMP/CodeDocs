@@ -11,7 +11,7 @@
     <a href="https://github.com/HerissonMan-TMP/CodeDocs"><img src="https://img.shields.io/github/downloads/HerissonMan-TMP/CodeDocs/total"></a>
 </p>
 
-Code Docs is a Discord Bot allowing people to have a rapid access to the documentation & "Getting Started" videos of several programming languages.
+Code Docs is a **Discord Bot** allowing people to have a rapid access to the documentation & "Getting Started" videos of several programming languages.
 
 ---
 
