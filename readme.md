@@ -2,7 +2,7 @@
     <img src="https://img.icons8.com/flat_round/344/documents.png" width="150">
 </p>
 
-#Code Docs
+# Code Docs
 ---
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 Code Docs is a Discord Bot allowing people to have a rapid access to the documentation & "Getting Started" videos of several programming languages.
 
-###Invite the Bot
+### Invite the Bot
 You can invite the bot to your Discord server thanks to this invite link: https://discord.com/api/oauth2/authorize?client_id=763831061440233482&permissions=117760&scope=bot
 
-###Commands
+### Commands
 `docs!help` Displays a help message showing available commands.
 
 `docs!contact` Displays the Discord username of the author.
@@ -33,7 +33,7 @@ You can invite the bot to your Discord server thanks to this invite link: https:
     </ul>
 </details>
 
-###Installation
+### Installation
 - Download the repository
 - Create a [Discord application](https://discord.com/developers/applications), and configure a Bot user.
 - Copy and paste the ".env.example" file and rename it to ".env".
@@ -41,7 +41,7 @@ You can invite the bot to your Discord server thanks to this invite link: https:
 - Invite the bot to your server.
 - Run `npm install`, then `npm start`.
 
-###Credits
+### Credits
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/HerissonMan-TMP)
 The Discord Bot has been developed by HérissonMan.
 
