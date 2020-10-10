@@ -37,7 +37,7 @@ https://discord.com/api/oauth2/authorize?client_id=763831061440233482&permission
 </details>
 
 ## Installation
-- Download the repository
+- Download the repository.
 - Create a [Discord application](https://discord.com/developers/applications), and configure a Bot user.
 - Copy and paste the ".env.example" file and rename it to ".env".
 - Replace "XXXXXXXXXXXXXX" by your Bot token.
