@@ -3,7 +3,6 @@
 </p>
 
 # Code Docs
----
 
 <p align="center">
     <img src="https://img.shields.io/github/release/Naereen/StrapDown.js.svg"> 
@@ -14,8 +13,11 @@
 
 Code Docs is a Discord Bot allowing people to have a rapid access to the documentation & "Getting Started" videos of several programming languages.
 
+---
+
 ## Invite the Bot
 You can invite the bot to your Discord server thanks to this invite link:
+<br>
 https://discord.com/api/oauth2/authorize?client_id=763831061440233482&permissions=117760&scope=bot
 
 ## Commands
