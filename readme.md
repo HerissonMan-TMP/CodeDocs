@@ -5,10 +5,10 @@
 # Code Docs
 
 <p align="center">
-    <img src="https://img.shields.io/github/release/Naereen/StrapDown.js.svg"> 
-    <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg">
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-    <img src="https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg">
+    <img src="https://img.shields.io/github/v/release/HerissonMan-TMP/CodeDocs"> 
+    <img src="https://img.shields.io/github/license/HerissonMan-TMP/CodeDocs">
+    <img src="https://img.shields.io/maintenance/yes/2020">
+    <img src="https://img.shields.io/github/downloads/HerissonMan-TMP/CodeDocs/total">
 </p>
 
 Code Docs is a Discord Bot allowing people to have a rapid access to the documentation & "Getting Started" videos of several programming languages.
