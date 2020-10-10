@@ -5,10 +5,10 @@
 # Code Docs
 
 <p align="center">
-    <img src="https://img.shields.io/github/v/release/HerissonMan-TMP/CodeDocs"> 
-    <img src="https://img.shields.io/github/license/HerissonMan-TMP/CodeDocs">
-    <img src="https://img.shields.io/maintenance/yes/2020">
-    <img src="https://img.shields.io/github/downloads/HerissonMan-TMP/CodeDocs/total">
+    <a href="https://github.com/HerissonMan-TMP/CodeDocs"><img src="https://img.shields.io/github/v/release/HerissonMan-TMP/CodeDocs"></a>
+    <a href="https://github.com/HerissonMan-TMP/CodeDocs"><img src="https://img.shields.io/github/license/HerissonMan-TMP/CodeDocs"></a>
+    <a href="https://github.com/HerissonMan-TMP/CodeDocs"><img src="https://img.shields.io/maintenance/yes/2020"></a>
+    <a href="https://github.com/HerissonMan-TMP/CodeDocs"><img src="https://img.shields.io/github/downloads/HerissonMan-TMP/CodeDocs/total"></a>
 </p>
 
 Code Docs is a Discord Bot allowing people to have a rapid access to the documentation & "Getting Started" videos of several programming languages.
