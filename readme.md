@@ -43,7 +43,8 @@ https://discord.com/api/oauth2/authorize?client_id=763831061440233482&permission
 - Run `npm install`, then `npm start`.
 
 ### Credits
-![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/HerissonMan-TMP)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/HerissonMan-TMP)
+
 The Discord Bot has been developed by HérissonMan.
 
 Bot logo comes from [Icons8](https://icons8.com).
