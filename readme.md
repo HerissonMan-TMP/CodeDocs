@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.icons8.com/flat_round/344/documents.png" width="150">
+    <a href="https://github.com/HerissonMan-TMP/CodeDocs"><img src="https://img.icons8.com/flat_round/344/documents.png" width="150"></a>
 </p>
 
 # Code Docs
