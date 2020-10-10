@@ -30,7 +30,7 @@ function startKeepAlive() {
         }).on('error', function(err) {
             console.log("Error: " + err.message);
         });
-    }, 2 * 60 * 1000); // load every 20 minutes
+    }, 30000); // load every 20 minutes
 }
 startKeepAlive();
 
