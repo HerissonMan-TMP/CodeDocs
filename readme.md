@@ -16,9 +16,9 @@ Code Docs is a **Discord Bot** allowing people to have a rapid access to the **d
 ---
 
 ## Invite the Bot
-You can invite the bot to your Discord server thanks to this invite link:
+This bot cannot be invited. If you want to use it on your server, you will have to host it yourself.
 <br>
-https://discord.com/api/oauth2/authorize?client_id=763831061440233482&permissions=117760&scope=bot
+However, you can have a preview of the bot on this server: https://discord.gg/QaxsyDj.
 
 ## Commands
 `docs!help` Displays a help message showing available commands.
