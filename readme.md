@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://github.com/HerissonMan-TMP/CodeDocs"><img src="https://img.icons8.com/flat_round/344/documents.png" width="150"></a>
+    <a href="https://discord.com"><img src="https://i.imgur.com/IJQwRGE.png" width="150"></a>
 </p>
 
 # Code Docs
