@@ -48,5 +48,6 @@ However, you can have a preview of the bot on this server: https://discord.gg/Qa
 [![](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/HerissonMan-TMP)
 <br>
 The Discord Bot has been developed by HérissonMan.
-
+<br>
+<br>
 Bot logo comes from [Icons8](https://icons8.com).
